@@ -1,3 +1,3 @@
 def greeting
-  greeting = "Hello World!"
+  greeting = "#{Hello World!}"
 end 
